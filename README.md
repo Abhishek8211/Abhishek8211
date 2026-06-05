@@ -109,14 +109,4 @@ From intelligent models to sleek UIs, I build digital products that are fast, in
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abhishek8211&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek8211&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
