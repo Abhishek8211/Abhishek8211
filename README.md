@@ -5,7 +5,7 @@
   Hi, I'm <strong>Abhishek</strong>
 </h1>
 
-<h3>Data Scientist | Machine Learning • React • Python</h3>
+<h3>Data Scientist | Machine Learning</h3>
 
 <div align="left">
 
