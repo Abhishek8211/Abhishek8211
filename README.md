@@ -27,8 +27,8 @@ From intelligent models to sleek UIs, I build digital products that are fast, in
 
 <p align="left">
 
-<a href="https://dev.to/Abhishek8211">
-<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white"/>
+<a href="https://abhishek-7.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A"/>
 </a>
 
 <a href="https://github.com/Abhishek8211">
